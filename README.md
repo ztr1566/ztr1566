@@ -1,5 +1,6 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ztr1566)
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=3,10,20,24,30&height=250&section=header&text=Ziad%20Rashid&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=DevOps%20Engineer%20%7C%20System%20Admin&descAlignY=60&descAlign=50" alt="Header Banner"/>
+
+![header](<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=3,10,20,24,30&height=250&section=header&text=Ziad%20Rashid&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=DevOps%20Engineer%20%7C%20System%20Admin&descAlignY=60&descAlign=50" alt="Header Banner"/>)
 
 <div align="center">
   <p>
