@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=3,10,20,24,30&height=250&section=header&text=Ziad%20Rashid&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=RHCSA%20Certified%20DevOps%20Engineer%20%7C%20System%20Admin&descAlignY=60&descAlign=50" alt="Header Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=3,10,20,24,30&height=250&section=header&text=Ziad%20Rashid&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=DevOps%20Engineer%20%7C%20System%20Admin&descAlignY=60&descAlign=50" alt="Header Banner"/>
 
 <div align="center">
   <p>
-    DevOps & Systems Engineer based in Cairo 🇪🇬.
+    RHCSA-certified DevOps & Systems Engineer based in Cairo 🇪🇬.
     <br />
     My focus is on enhancing system reliability and optimizing costs by building scalable infrastructure and implementing robust CI/CD pipelines.
     <br />
