@@ -2,7 +2,7 @@
 
 <div align="center">
   <p>
-    RHCSA-certified DevOps & Systems Engineer based in Cairo, Egypt 🇪🇬.
+    DevOps & Systems Engineer based in Cairo 🇪🇬.
     <br />
     My focus is on enhancing system reliability and optimizing costs by building scalable infrastructure and implementing robust CI/CD pipelines.
     <br />
