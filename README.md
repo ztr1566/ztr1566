@@ -98,7 +98,7 @@ Here are the key projects that showcase my skills.
     <img src="https://img.shields.io/badge/-Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
     <img src="https://img.shields.io/badge/-Terragrunt-8C4FFF?style=for-the-badge&logo=terraform&logoColor=white" alt="Terragrunt"/>
   </p>
-  <a href="https://github.com/ztr1566/gcp-terragrunt-project">➡️ <strong>View Project on GitHub</strong></a>
+  <a href="https://github.com/ztr1566/terragrunt-gke-enterprise.git">➡️ <strong>View Project on GitHub</strong></a>
 </details>
 <br>
 
