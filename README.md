@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <img src="https://komarev.com/ghpvc/?username=ztr1566&style=flat-square&color=blue" alt="Profile Visitors" />
 </div>
 
@@ -161,12 +161,12 @@ Here are the key projects that showcase my skills.
 ### 📈 My GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ztr1566&show_icons=true&theme=dark&icon_color=79ff97&hide_border=true" alt="GitHub Stats"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ztr1566&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
+  <img width="48%" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=ztr1566&show_icons=true&theme=dark&icon_color=79ff97&hide_border=true" alt="GitHub Stats"/>
+  <img width="48%" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=ztr1566&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ztr1566&theme=dark&hide_border=true&fire=79ff97&ring=79ff97" alt="GitHub Streak"/>
   <br><br>
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=ztr1566&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="Trophies"/>
+  <img width="90%" src="https://github-profile-trophy.screw-hand.vercel.app/?username=ztr1566&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="Trophies"/>
 </p>
 
 ---
