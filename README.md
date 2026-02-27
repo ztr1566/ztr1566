@@ -1,6 +1,8 @@
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ztr1566)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ztr1566&style=flat-square&color=blue" alt="Profile Visitors" />
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=3,10,20,24,30&height=250&section=header&text=Ziad%20Rashid&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=DevOps%20Engineer%20%7C%20System%20Admin&descAlignY=60&descAlign=50" alt="Header Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,10,20,24,30&height=250&section=header&text=Ziad%20Rashid&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=DevOps%20Engineer%20%7C%20System%20Admin&descAlignY=60&descAlign=50" alt="Header Banner"/>
 
 <div align="center">
   <p>
@@ -19,6 +21,7 @@
 ---
 
 ### 🚀 My Project Highlights
+
 Here are the key projects that showcase my skills.
 
 <details>
@@ -80,6 +83,23 @@ Here are the key projects that showcase my skills.
   </p>
   <a href="https://github.com/ztr1566/securenode_cms.git">➡️ <strong>View Project on GitHub</strong></a>
 </details>
+
+<details>
+  <summary>
+    <strong>GCP Infrastructure Automation (Terragrunt & Terraform)</strong>
+  </summary>
+  <br>
+  <p>
+    Automated the provisioning of Google Cloud Platform (GCP) resources using Terragrunt and Terraform, adhering to DRY principles and infrastructure as code best practices.
+  </p>
+  <strong>Tech Stack:</strong>
+  <p>
+    <img src="https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
+    <img src="https://img.shields.io/badge/-Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+    <img src="https://img.shields.io/badge/-Terragrunt-8C4FFF?style=for-the-badge&logo=terraform&logoColor=white" alt="Terragrunt"/>
+  </p>
+  <a href="https://github.com/ztr1566/gcp-terragrunt-project">➡️ <strong>View Project on GitHub</strong></a>
+</details>
 <br>
 
 ---
@@ -87,6 +107,7 @@ Here are the key projects that showcase my skills.
 ### 🛠️ Core Skills & Tools
 
 #### DevOps, Cloud & Infrastructure
+
 <p>
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
@@ -105,6 +126,7 @@ Here are the key projects that showcase my skills.
 </p>
 
 #### Backend Development & Databases
+
 <p>
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/-ExpressJS-000000?style=for-the-badge&logo=express&logoColor=white" alt="ExpressJS"/>
@@ -115,6 +137,7 @@ Here are the key projects that showcase my skills.
 </p>
 
 #### Languages & Tools
+
 <p>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -140,7 +163,9 @@ Here are the key projects that showcase my skills.
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ztr1566&show_icons=true&theme=dark&icon_color=79ff97&hide_border=true" alt="GitHub Stats"/>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ztr1566&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
-  <br>
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ztr1566&theme=dark&hide_border=true&fire=79ff97&ring=79ff97" alt="GitHub Streak"/>
+  <br><br>
   <img width="90%" src="https://github-profile-trophy.vercel.app/?username=ztr1566&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="Trophies"/>
 </p>
 
